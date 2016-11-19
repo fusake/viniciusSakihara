@@ -1,0 +1,18 @@
+phpmyadmin-ctl	install
+
+
+Você pode verificar o status de suas alterações:
+#git status 
+Fazer o commit das suas alterações. Digite no terminal os seguintes comandos:
+#git add .
+(o ponto significa TODOS. Vc tb pode substituir o ponto pelo nome do arquivo modificado)
+#git commit –m “mensagem”
+(coloque entre aspas uma breve descrição da(s) modificação(ões) realizada(s))
+Fazer o push das sua alterações para o github
+#git push
+
+
+
+cores Vizuu:
+
+#ff99ff - rosa

@@ -9,7 +9,7 @@ body{
 }
 
 header{
-    border-bottom: #9999ff solid 5px;
+    border-bottom: #ffffff solid 3px;
 }
 .logo h1{ font-size:50px;
 
@@ -21,6 +21,7 @@ header{
     padding-left:50px;
     text-shadow: 0 0 0.2em #8f7;
 }
+
 
 .nav form{
     width: 430px;
@@ -60,7 +61,7 @@ header{
     padding:0;
     margin-left:-200px;
     list-style:none;
-    width:132%;
+    width:100%;
     float:left;
 }
 .nav ul li{
@@ -82,105 +83,17 @@ header{
     clear: both;
     text-shadow: 0 0 0.2em #8f7;
 }
-
-#nav_2{
-    width: 200px;
-    height: 500px;
-    background-image: url("../Images/nav2_back.png");
-    background-position: center;
-    float: left;
-    border-right: solid #999999 3px;
-}
-
-#nav_2 nav{
-    list-style: url;
-    color: #999999;
-    text-align: center;
-    margin: 200px 0px;
-    font-family: helvetica;
-}
-
-#nav_2 h4{
-    color: #ff3333;
-}
-#nav_2 p{
-    color: #000000;
-}
-
-
-#about_us{
-    border:solid 3px white;
-    margin-top: 0px;
-    margin-left: 205px;
+#form_cadastro{
     width: 500px;
-    height: 500px;
-    background-color: black;
-    background-repeat: no-repeat;
-    background-size: 100% 500px;
+    height: 250px;
+    margin: auto;
 }
-
-#about_us h1{
-    margin: 20px 0px 0px -200px;
-    padding-left: 210px;
-    font-family: helvetica;
-    font-size: 32px;
-    color: white;
-}
-
-#about_us p{
-    margin-right: 70px;
-    margin-left: 10px;
-    color: white; 
-}
-
-
-#comentarios{
-    background-color: lightblue;
-    width: 725px;
-    height: 504px;
-    margin-left: 712px;
-    margin-top: -506px;
-    text-align: center;
-    
-}
-
-
-/*#nav_2 nav a{
-    font-family: helvetica;
-    font-size: 20px;
-    margin-bottom: 200px;
-    padding: 20px 0px;
-    
-}*/
-
-#lean_overlay {
-    position: fixed;
-    z-index:100;
-    top: 0px;
-    left: 0px;
-    height:100%;
-    width:100%;
-    background: #000;
-    display: none;
-}
-
-.popupContainer{
-	position:absolute;
-	width:330px;
-	height: auto;
-	left:45%;
-	top:80px;
-	background: #FFF;
-}
-
-
-
 #footer{
-    width:100%;
+    width: 1432px;
     height: 70px;
     background-color: #000000;
     float: left;
-    margin:0px 0px 0px 0px;
+    margin:20px 0px 0px 0px;
     border-top: #ff99ff solid 5px;
 }
 #footer nav{

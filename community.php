@@ -4,9 +4,6 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Vizuu</title>
-        <script type="text/javascript" src="JS/js_login2.js"></script>
-        <script type="text/javascript" src="JS/js_login.js"></script>
-        <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" />
         <link type="text/css" rel="stylesheet" href="CSS/css_community.css">
     </head>
     <body>

@@ -1,0 +1,10 @@
+Professora, 
+
+Os comentarios estão na sessão Contact do site.
+Os logins podem ser cadastrados na sessão "Cadastre-se" no Header de qualquer página.
+
+Os logins, eu não consegui fazer com que o site mostrasse.
+
+Os comentarios, eu consegui fazer com que eles salvassem no BD, mas para exibir, ele só exibe o primeiro, eu não consegui resolver esse erro de mostrar os próximos comentarios.
+
+Os tratamentos strip_tags e sha1 estão ok.
